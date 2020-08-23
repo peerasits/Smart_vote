@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart vote</string>
+    <string name="election_th">ELECTION COMMISSION OF THAILAND</string>
+    <string name="th">สำนักงานคณะกรรมการเลือกตั้ง</string>
+    <string name="conut">Count Down To Election Day</string>
+    <string name="next">next</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="_365">365</string>
+    <string name="_24">24</string>
+    <string name="_60">60</string>
+    <string name="description">logo_of_ect</string>
+</resources>
