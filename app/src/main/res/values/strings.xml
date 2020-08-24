@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Smart vote</string>
     <string name="election_th">ELECTION COMMISSION OF THAILAND</string>
-    <string name="th">สำนักงานคณะกรรมการเลือกตั้ง</string>
+    <string name="thw">สำนักงานคณะกรรมการเลือกตั้ง</string>
     <string name="conut">Count Down To Election Day</string>
     <string name="next">next</string>
     <string name="days">Days</string>
