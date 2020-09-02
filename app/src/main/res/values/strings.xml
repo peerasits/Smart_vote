@@ -12,4 +12,6 @@
     <string name="_24">24</string>
     <string name="_60">60</string>
     <string name="description">logo_of_ect</string>
+    <string name="check">ตรวจสอบสิทธิ์การเลือกตั้ง</string>
+    <string name="input_id_hint">กรอกเลขบัตรประชาชน</string>
 </resources>

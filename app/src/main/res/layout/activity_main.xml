@@ -61,7 +61,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/next_button"
         android:layout_width="86dp"
         android:layout_height="37dp"
         android:text="@string/next"
